@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">kunoichi</string>
+    <string-array name="femaleTypes">
+        <item>хокаге</item>
+        <item>анбу</item>
+        <item>генин</item>
+        <item>джоунин</item>
+        <item>медик</item>
+        <item>чуунин</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
